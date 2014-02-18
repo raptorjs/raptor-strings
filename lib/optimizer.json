@@ -1,6 +1,0 @@
-{
-    "dependencies": [
-        "StringBuilder.js",
-        "strings.js"
-    ]
-}
