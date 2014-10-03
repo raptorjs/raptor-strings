@@ -3,7 +3,7 @@
   "description": "Utility functions for working with strings",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raptorjs3/raptor-strings.git"
+    "url": "https://github.com/raptorjs/raptor-strings.git"
   },
   "scripts": {
     "test": "node_modules/.bin/mocha --ui bdd --reporter spec  ./test"
